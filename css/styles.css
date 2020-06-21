@@ -1,0 +1,127 @@
+body{
+  margin:0;
+  text-align:center;
+  color:#40514E;
+}
+.head{
+  position:fixed;
+  background-color: #66BFBF;
+  width:100%;
+  top:0;
+  overflow:hidden;
+}
+.index{
+  color:#11999E;
+}
+.top-container{
+  background-color: #E4F9F5;
+  padding-top:150px;
+  position: relative;
+  font-family: 'Merriweather', sans-serif;
+}
+.middle-container{
+  font-family: 'Merriweather';
+  margin:75px auto 75px auto;
+}
+.bottom-container{
+  font-family: 'Merriweather';
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento';
+  font-size:5.625rem;
+  margin:50px auto 0 auto;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  color:#66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat';
+  color:#11999E;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+.top-cloud{
+  position:absolute;
+  right:200px;
+  top:300px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+}
+.code-img{
+  height:150px;
+  width:150px;
+  float:left;
+  margin-right:30px;
+}
+.java-img{
+  height: 150px;
+  width:150px;
+  float:right;
+  margin-left:30px;
+}
+hr{
+  width:5%;
+  border-style:dotted none none none;
+  border-width:6px;
+  border-color: grey;
+  margin:50px auto 50px auto;
+}
+p{
+  padding-bottom: 10px;
+  line-height: 2;
+}
+.contact-me{
+  margin:40px auto 60px;
+}
+.contact-message{
+  margin:40px auto 60px;
+}
+.btn {
+	box-shadow: -3px 6px 9px -3px #91b8b3;
+	background-color:#66BFBF;
+	border-radius:15px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Montserrat;
+	font-size:18px;
+	padding:15px 25px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:white;
+  color:#66BFBF;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 10px 10px 10px;
+  font-family: Montserrat;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.copy{
+  color:#EAF6F6;
+  font-family: Montserrat;
+  font-size:0.9rem;
+  margin:25px auto;
+}
